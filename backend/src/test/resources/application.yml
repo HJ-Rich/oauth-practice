@@ -1,0 +1,4 @@
+spring:
+  config:
+    import:
+      - classpath:/../../../oauth-practice-secret/application.yml
